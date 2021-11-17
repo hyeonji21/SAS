@@ -1,0 +1,9 @@
+%let name= Ed Norton	;
+%let name2=' Ed Norton	';
+%let title="Joan's Report";
+%let start=;
+%let sum=3+4;
+%let total=0;
+%let total=&total+&sum;
+%let x=varlist;
+%let &x=name age height;
